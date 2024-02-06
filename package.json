@@ -15,7 +15,7 @@
     "axios": "^1.1.2",
     "axios-mock-adapter": "^1.19.0",
     "react": "18.2.0",
-    "react-native": "0.73.3"
+    "react-native": "0.73.4"
   },
   "devDependencies": {
     "@babel/core": "^7.13.10",
