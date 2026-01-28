@@ -14,7 +14,7 @@
     "@types/jest": "^30.0.0",
     "axios": "^1.1.2",
     "axios-mock-adapter": "^2.0.0",
-    "react": "19.2.3",
+    "react": "19.2.4",
     "react-native": "0.83.1"
   },
   "devDependencies": {
