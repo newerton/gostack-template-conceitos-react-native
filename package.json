@@ -20,7 +20,7 @@
   "devDependencies": {
     "@babel/core": "^8.0.0",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
-    "@babel/plugin-transform-flow-strip-types": "^7.13.0",
+    "@babel/plugin-transform-flow-strip-types": "^8.0.1",
     "@babel/runtime": "^8.0.0",
     "@react-native-community/eslint-config": "^3.0.0",
     "@testing-library/react-native": "^14.0.0",
